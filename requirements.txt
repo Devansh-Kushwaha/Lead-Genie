@@ -1,0 +1,13 @@
+# Django and core
+Django>=4.2
+djangorestframework
+django-cors-headers
+
+# Environment Variables
+python-dotenv
+
+# HTTP Requests
+requests
+
+# OpenAI + JSON processing
+openai

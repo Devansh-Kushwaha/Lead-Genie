@@ -1,0 +1,44 @@
+.company-detail-empty {
+  margin: 40px auto;
+  max-width: 900px;
+  background-color: #1e293b;
+  color: #cbd5e1;
+  padding: 20px 25px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.company-detail-box {
+  margin: 40px auto;
+  max-width: 900px;
+  background-color: #1e293b;
+  padding: 30px;
+  border-radius: 12px;
+  color: #f1f5f9;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+}
+
+.company-name {
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  text-align: center;
+}
+
+.company-info-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.label {
+  font-weight: 600;
+  color: #94a3b8;
+}
+
+
