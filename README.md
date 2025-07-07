@@ -5,6 +5,22 @@ An AI-powered B2B lead generation tool that searches companies by industry and l
 
 ---
 
+## 📸 Screenshots
+
+### 🔍 Company Search
+<img src="screenshots/Screenshot 2025-07-07 150817.png" width="100%" alt="Company search results"/>
+
+### 🧠 Company Search Result Table
+<img src="screenshots/Screenshot 2025-07-07 150924.png" width="100%" alt="Company Search Result Table"/>
+
+### 📰 Company Details
+<img src="screenshots/Screenshot 2025-07-07 150949.png" width="100%" alt="Company Details"/>
+
+### 📰 News Pane
+<img src="screenshots/Screenshot 2025-07-07 151004.png" width="100%" alt="News Pane"/>
+
+---
+
 ## 🗂️ Project Structure
 
 ```

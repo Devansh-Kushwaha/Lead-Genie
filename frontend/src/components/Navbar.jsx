@@ -2,7 +2,7 @@ import React from 'react';
 const Navbar = ({ menuItems, onSelect, selected }) => {
   return (
     <div className="topbar">
-      <h2>SaaSquatch Leads</h2>
+      <h2>Lead Genie</h2>
       <ul className="navbar">
         {menuItems.map((item, index) => (
           <li
