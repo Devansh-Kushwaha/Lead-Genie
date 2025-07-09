@@ -7,7 +7,8 @@ An AI-powered B2B lead generation tool that searches companies by industry and l
 
 ## 📸 Demo & Screenshots
 
-###Demo: https://drive.google.com/file/d/1K80V6P05iOsECyHrO-yIvuEEgccZPL_l/view?usp=drive_link
+### Demo: 
+https://drive.google.com/file/d/1K80V6P05iOsECyHrO-yIvuEEgccZPL_l/view?usp=drive_link
 
 ### 🔍 Company Search
 <img src="screenshots/Screenshot 2025-07-07 150817.png" width="100%" alt="Company search results"/>
