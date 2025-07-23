@@ -1,5 +1,5 @@
 
-# 🧠 Lead Intelligence Tool
+# 🧠 Lead Genie: Lead Intelligence Tool
 
 An AI-powered B2B lead generation tool that searches companies by industry and location, gathers verified contact data, news insights, and performs OpenAI-driven analysis to generate pain points, values, service suggestions, and lead scoring.
 
